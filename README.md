@@ -8,8 +8,7 @@ This repository contains the core materials and data related to the Unified Theo
 * LaTeX Source: The LaTeX file used to generate the PDF, available for those interested in editing or compiling the document themselves.
 * Text-only version: A plain text version of the theory, suitable for simple reading or analysis.
 * HTML version: A web-friendly format for easier browsing.
-* Training Data:
-*   JSON format: Datasets prepared for training machine learning models based on the theory.
+* Training Data in JSON & JSONL format: Datasets prepared for training machine learning models based on the theory.
 
 <h2>Purpose</h2>
 
