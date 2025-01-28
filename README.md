@@ -1,4 +1,4 @@
-<H1>The Unified Theory of Energy</H1>
+<H1>unified-theory-of-energy</H1>
 
 This repository contains the core materials and data related to the Unified Theory of Energy, a theoretical framework that aims to address fundamental aspects of energy, gravitation, and particulate motion.
 
