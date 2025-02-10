@@ -26,3 +26,4 @@ Access the LaTeX document if you wish to modify or extend the written explanatio
 
 Machine learning developers can use the JSON training data as a starting point for fine-tuning models based on this theoretical framework.
 
+https://michaelvera.org/Unified_Theory_of_Energy.html
