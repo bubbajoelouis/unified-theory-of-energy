@@ -30,7 +30,9 @@ MERGE (E)-[:HAS_STATE]->(I)
 // Define How Energy Behaves
 MERGE (G)-[:STORES_ENERGY]->(E)
 MERGE (R)-[:EMITS_ENERGY]->(E)
-MERGE (I)-[:RESISTS_ENERGY]->(E)
+MERGE (I)-[:AFFECTS_ENERGY]->(E)
+MERGE (I)-[:RESISTS_RADIATION]->(R) // Inertia resists extension of Radiation from Mass
+MERGE (I)-[:ASSISTS_GRAVITATION]->(G)  // Inertia helps store Radiation as Gravitation within Mass
 
 // Theorem Application
 MERGE (t1)-[:APPLIES_TO]->(E)
