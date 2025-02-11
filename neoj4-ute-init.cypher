@@ -30,7 +30,7 @@ MERGE (E)-[:HAS_STATE]->(I)
 // Define How Energy Behaves
 MERGE (G)-[:STORES_ENERGY]->(E)
 MERGE (R)-[:EMITS_ENERGY]->(E)
-MERGE (I)-[:INFLUENCES_ENERGY]->(E)
+MERGE (I)-[:RESISTS_ENERGY]->(E)
 
 // Theorem Application
 MERGE (t1)-[:APPLIES_TO]->(E)
